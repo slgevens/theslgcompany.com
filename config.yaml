@@ -1,8 +1,6 @@
 ---
 # Default configuration
-# title: "#THE SLG COMPANY"
-baseURL: https://theslcompany.com
-# baseURL: https://theslgcompany.com
+baseURL: https://theslgcompany.com
 canonifyURLs: true
 enableEmoji: true
 enableGitInfo: false
@@ -47,7 +45,6 @@ params:
   dateformNumTime: "2006-01-02 15:04 -0700"
   themeColor: "#e52920"
   bgImg: "https://s3.eu-north-1.amazonaws.com/theslgcompany.com/theslgcompany-background.jpg"
-  # footerCopyright: " - Theme made by <a href='https://github.com/Track3/hermit' target='_blank' rel='noopener'> Github/Track3 </a>"
   social:
     # - name: "twitter"
     #   url: "https://twitter.com/theslgcompany"
