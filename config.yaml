@@ -1,6 +1,7 @@
 ---
 # Default configuration
 baseURL: https://theslgcompany.com
+title: '#THESLGCOMPANY'
 canonifyURLs: true
 enableEmoji: true
 enableGitInfo: false
