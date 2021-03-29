@@ -51,8 +51,6 @@ params:
       url: "https://twitter.com/theslgcompany"
     - name: "instagram"
       url: "https://instagram.com/theslgcompany"
-    - name: "github"
-      url: "https://github.com/slgevens/theslgcompany.com"
     - name: "email"
       url: "mailto:info@theslgcompany.com"
     # - name: "cart"
