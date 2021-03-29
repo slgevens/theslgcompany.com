@@ -47,8 +47,8 @@ params:
   themeColor: "#e52920"
   bgImg: "https://s3.eu-north-1.amazonaws.com/theslgcompany.com/theslgcompany-background.jpg"
   social:
-     - name: "twitter"
-       url: "https://twitter.com/theslgcompany"
+    - name: "twitter"
+      url: "https://twitter.com/theslgcompany"
     - name: "instagram"
       url: "https://instagram.com/theslgcompany"
     - name: "github"
